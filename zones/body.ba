@@ -1,0 +1,13 @@
+@body.ba:ASPMX.L.GOOGLE.COM:10
+@body.ba:ALT1.ASPMX.L.GOOGLE.COM:20
+@body.ba:ALT2.ASPMX.L.GOOGLE.COM:20
+@body.ba:ASPMX2.GOOGLEMAIL.COM:30
+@body.ba:ASPMX3.GOOGLEMAIL.COM:30
+@body.ba:ASPMX4.GOOGLEMAIL.COM:30
+@body.ba:ASPMX5.GOOGLEMAIL.COM:30
++body.ba:144.76.166.215:300
+Cwww.body.ba:body.ba:300
+Cftp.body.ba:body.ba:300
+Cwebmail.boby.ba:ghs.google.com:300
+Tbody.ba:"v=spf1 include:_spf.google.com a mx ip4:144.76.166.215 ~all"
+Tgoogle._domainkey:"v=DKIM1; k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCAwJ7Jwd8/SUgNHy4yToMLq9tkeLR/FS3scbJ4slpByHqUHFXUF1ZHi7DhlzTZKYaKhP6Ob5tWmTWeYr2ItbzibyZYmG/U6Hrlc75J6IvJUw5/TdNjzqpAJNrDy6OkDhy7Bsy+quIC0aZTjEu6JguLXd1Wdj3DkfK80nXeVMqDUwIDAQAB"
