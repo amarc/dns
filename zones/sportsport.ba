@@ -1,0 +1,22 @@
+@sportsport.ba:ASPMX.L.GOOGLE.COM:10
+@sportsport.ba:ALT1.ASPMX.L.GOOGLE.COM:20
+@sportsport.ba:ALT2.ASPMX.L.GOOGLE.COM:20
+@sportsport.ba:ASPMX2.GOOGLEMAIL.COM:30
+@sportsport.ba:ASPMX3.GOOGLEMAIL.COM:30
+@sportsport.ba:ASPMX4.GOOGLEMAIL.COM:30
+@sportsport.ba:ASPMX5.GOOGLEMAIL.COM:30
++sportsport.ba:88.198.18.204:300
+Tsportsport.ba:"v=spf1 include:_spf.google.com a mx ip4:78.46.81.235 ip4:88.198.18.204 ~all"
+Cwww.sportsport.ba:sportsport.ba:300
+Cftp.sportsport.ba:sportsport.ba:300
+Cm.sportsport.ba:sportsport.ba:300
+Cwap.sportsport.ba:sportsport.ba:300
+Cvideo.sportsport.ba:sportsport.ba:300
++forum.sportsport.ba:144.76.166.215:300
+Cwebmail.sportsport.ba:ghs.google.com:300
++mail.sportsport.ba:80.65.85.68:300
++www2.sportsport.ba:88.198.18.204:300
++mdev.sportsport.ba:88.198.18.204:300
++tv.sportsport.ba:104.46.63.225:300
++uzivo.sportsport.ba:88.198.18.204:300
++uzivo2.sportsport.ba:85.126.56.30:300
