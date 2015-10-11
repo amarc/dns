@@ -1,3 +1,3 @@
-DNS for sportsport.ba using https://dns-api.com/
+DNS for domains using https://dns-api.com/
 
 
