@@ -1,0 +1,5 @@
+@stbih.ba:mx0.nula.ba:5
++stbih.ba:37.48.78.55:300
++webmail.stbih.ba:193.234.225.213:300
+Cwww.stbih.ba:stbih.ba:300
+Tstbih.ba:"v=spf1 include:_spf.google.com a mx ip4:193.234.225.213 ~all"
